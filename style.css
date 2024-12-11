@@ -10,6 +10,7 @@
     position: sticky;
     background-color: white;
     border-bottom: #d8dfe0;
+    z-index: 1;
     
 }
 .nav-p1{
@@ -51,5 +52,6 @@
 .sec1-main{
     width: 1280px;
     height: 196px;
-    background-color: antiquewhite;
+    
 }
+
